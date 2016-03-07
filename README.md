@@ -6,4 +6,4 @@ This package provides a compatibility layer to application's tests that are all 
 
 ## Install:
 
-```npm install BladeRunnerJS/mocha-jasmine-spec```
+```npm install trueadm/mocha-jasmine-spec```
